@@ -185,7 +185,6 @@ Key measures created include:
 
 ![Dashboard](Dubia-Residential-Market-Analysis/dashboard/Dubia%20Residential%20Dashboard.png)
 
-```
 
 ---
 
