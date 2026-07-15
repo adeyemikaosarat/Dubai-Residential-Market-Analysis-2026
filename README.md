@@ -183,10 +183,9 @@ Key measures created include:
 
 # 📷 Dashboard Preview
 
-> Upload your dashboard screenshot into the **Images** folder.
-
-```markdown
 ![Dashboard](Dubia-Residential-Market-Analysis/dashboard/Dubia%20Residential%20Dashboard.png)
+
+> Replace the image path with your actual screenshot location.
 
 ```
 
