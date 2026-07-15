@@ -186,7 +186,8 @@ Key measures created include:
 > Upload your dashboard screenshot into the **Images** folder.
 
 ```markdown
-![Dashboard](Dubia Residential dashboard.PNG/Dashboard.png)
+![Dashboard](Dubia-Residential-Market-Analysis/dashboard/Dubia%20Residential%20Dashboard.png)
+
 ```
 
 ---
