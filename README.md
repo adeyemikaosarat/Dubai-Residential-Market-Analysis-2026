@@ -185,6 +185,7 @@ Key measures created include:
 
 ![Dashboard](Dubia-Residential-Market-Analysis/dashboard/Dubia%20Residential%20Dashboard.png)
 
+> Replace the image path with your actual screenshot location.
 
 ---
 
