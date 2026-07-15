@@ -177,7 +177,7 @@ Key measures created include:
 
 - Month
 - Year
--Procedure Ttype
+- Procedure Ttype
 
 ---
 
@@ -186,7 +186,7 @@ Key measures created include:
 > Upload your dashboard screenshot into the **Images** folder.
 
 ```markdown
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dubia Residential dashboard.PNG/Dashboard.png)
 ```
 
 ---
