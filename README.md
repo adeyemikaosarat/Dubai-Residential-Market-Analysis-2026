@@ -183,7 +183,7 @@ Key measures created include:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Dubia-Residential-Market-Analysis/dashboard/Dubia%20Residential%20Dashboard.png)
+![Dashboard](Dubia-Residential-Market-Analysis-2026/Dashboard/Dubia%20Residential%20dashboard.PNG)
 
 > Replace the image path with your actual screenshot location.
 
